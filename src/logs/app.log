@@ -1,0 +1,13 @@
+2024-09-23T14:17:58.177Z [WARN]: Insufficient stock for product 1
+2024-09-23T14:18:13.532Z [INFO]: Order created successfully: 9
+
+2024-09-23T15:34:52.751Z [WARN]: Low stock for product: souris
+2024-09-23T15:34:52.766Z [INFO]: Order created successfully: 10
+2024-09-23T15:35:31.642Z [WARN]: Insufficient stock for product 1
+2024-09-23T15:36:04.694Z [INFO]: Order created successfully: 11
+2024-09-23T15:36:32.278Z [INFO]: Order created successfully: 12
+2024-09-25T02:55:57.048Z [ERROR]: User not found: undefined
+2024-09-25T03:12:31.153Z [ERROR]: Product not found: 10
+2024-09-25T03:46:11.505Z [ERROR]: Product not found: 11
+2024-09-25T03:47:50.360Z [ERROR]: Product not found: 11
+2024-09-25T03:48:26.812Z [ERROR]: Product not found: 11

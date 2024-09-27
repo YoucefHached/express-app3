@@ -1,0 +1,12 @@
+2024-09-23T13:31:32.266Z [WARN]: Insufficient stock for product 1
+2024-09-23T13:32:03.068Z [INFO]: Order created successfully: 4
+2024-09-23T13:32:19.689Z [WARN]: Insufficient stock for product 1
+2024-09-23T13:32:27.628Z [ERROR]: User not found: 5
+2024-09-23T13:32:42.499Z [ERROR]: User not found: 5
+2024-09-23T13:32:49.762Z [ERROR]: Product not found: -1
+2024-09-23T13:34:17.654Z [WARN]: Insufficient stock for product 1
+2024-09-23T13:34:49.843Z [INFO]: Order created successfully: 5
+2024-09-23T13:41:03.127Z [INFO]: Order created successfully: 6
+2024-09-23T14:10:15.447Z [INFO]: Order created successfully: 7
+2024-09-23T14:10:29.297Z [INFO]: Order created successfully: 8
+2024-09-23T14:15:06.308Z [WARN]: Insufficient stock for product 1
